@@ -18,12 +18,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "",
+      "brBefore": "MLP-text-bez1radku--12-0\nMLP-verse--I---12-12",
+      "brAfter": "MLP-text-bez1radku--0-12\nMLP-verse--I---12-12",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "MLP-dopis--I\nMLP-venovani\nMLP-verse--I---12-12\nchar-style-override-2\n char-style-override-3",
+      "strong": "MLP-tiraz-autor-a-nazev",
       "remove": "",
       "ignore": ""
     },
@@ -32,57 +32,78 @@
         "filename": "babicka_001.md",
         "xhtml": "babicka_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_002.md",
         "xhtml": "babicka_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_003.md",
         "xhtml": "babicka_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_004.md",
         "xhtml": "babicka_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_005.md",
         "xhtml": "babicka_005.xhtml",
         "id": 4,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_006.md",
         "xhtml": "babicka_006.xhtml",
         "id": 5,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_007.md",
         "xhtml": "babicka_007.xhtml",
         "id": 6,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_008.md",
@@ -90,7 +111,10 @@
         "id": 7,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_009.md",
@@ -98,7 +122,10 @@
         "id": 8,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "I",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_010.md",
@@ -106,7 +133,10 @@
         "id": 9,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "II",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_011.md",
@@ -114,7 +144,10 @@
         "id": 10,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "III",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_012.md",
@@ -122,7 +155,10 @@
         "id": 11,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "IV",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_013.md",
@@ -130,7 +166,10 @@
         "id": 12,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "V",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_014.md",
@@ -138,7 +177,10 @@
         "id": 13,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "VI",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_015.md",
@@ -146,7 +188,10 @@
         "id": 14,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "VII",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_016.md",
@@ -154,7 +199,10 @@
         "id": 15,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "VIII",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_017.md",
@@ -162,7 +210,10 @@
         "id": 16,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "IX",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_018.md",
@@ -170,7 +221,10 @@
         "id": 17,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "X",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_019.md",
@@ -178,7 +232,10 @@
         "id": 18,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XI",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_020.md",
@@ -186,7 +243,10 @@
         "id": 19,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XII",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_021.md",
@@ -194,7 +254,10 @@
         "id": 20,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XIII",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_022.md",
@@ -202,7 +265,10 @@
         "id": 21,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XIV",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_023.md",
@@ -210,7 +276,10 @@
         "id": 22,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XV",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_024.md",
@@ -218,7 +287,10 @@
         "id": 23,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XVI",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_025.md",
@@ -226,7 +298,10 @@
         "id": 24,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XVII",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_026.md",
@@ -234,7 +309,10 @@
         "id": 25,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "XVIII",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_027.md",
@@ -242,15 +320,21 @@
         "id": 26,
         "role": "chapter",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": true,
+        "title": "* * *",
+        "subtitle": "",
+        "children": []
       },
       {
         "filename": "babicka_028.md",
         "xhtml": "babicka_028.xhtml",
         "id": 27,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true
+        "inToc": false,
+        "title": "",
+        "subtitle": "",
+        "children": []
       }
     ]
   },
@@ -260,8 +344,7 @@
       "identifier": "urn:uuid:ed7088f6-81c9-40f0-9e0e-59c2552ef643",
       "author": "Božena Němcová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-22T05:34:09.067Z",
-      "languageCode": "cs"
+      "modified": "2021-08-22T05:36:50.459Z"
     },
     "chapters": [
       {
@@ -313,115 +396,115 @@
         "xhtml": "babicka_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "babicka_009.md",
         "xhtml": "babicka_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "babicka_010.md",
         "xhtml": "babicka_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "babicka_011.md",
         "xhtml": "babicka_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "babicka_012.md",
         "xhtml": "babicka_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "babicka_013.md",
         "xhtml": "babicka_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "babicka_014.md",
         "xhtml": "babicka_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "babicka_015.md",
         "xhtml": "babicka_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "babicka_016.md",
         "xhtml": "babicka_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "babicka_017.md",
         "xhtml": "babicka_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X",
         "subtitleSuggest": "",
         "filename": "babicka_018.md",
         "xhtml": "babicka_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI",
         "subtitleSuggest": "",
         "filename": "babicka_019.md",
         "xhtml": "babicka_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII",
         "subtitleSuggest": "",
         "filename": "babicka_020.md",
         "xhtml": "babicka_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII",
         "subtitleSuggest": "",
         "filename": "babicka_021.md",
         "xhtml": "babicka_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV",
         "subtitleSuggest": "",
         "filename": "babicka_022.md",
         "xhtml": "babicka_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV",
         "subtitleSuggest": "",
         "filename": "babicka_023.md",
         "xhtml": "babicka_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI",
         "subtitleSuggest": "",
         "filename": "babicka_024.md",
         "xhtml": "babicka_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII",
         "subtitleSuggest": "",
         "filename": "babicka_025.md",
         "xhtml": "babicka_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII",
         "subtitleSuggest": "",
         "filename": "babicka_026.md",
         "xhtml": "babicka_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "* * *",
         "subtitleSuggest": "",
         "filename": "babicka_027.md",
         "xhtml": "babicka_027.xhtml"
@@ -508,6 +591,6 @@
       "user": "books-are-next",
       "repo": "babicka"
     },
-    "generatedAt": 1629610449518
+    "generatedAt": 1629610610943
   }
 }
