@@ -206,11 +206,15 @@ Byl jsem tenkráte první rok mládencem zde u mého předchůdce, nebožtíka 
 
 Jednou v noci stál jsem na čekání na stráni nad Starým bělidlem; měsíc svítil jako ve dne. Tu vidím vycházet Viktorku z lesa. Když jde, nese ruce pod prsami přes sebe položené, hlavu k předu schýlenou, a běží tak lehce, až člověku se zdá, země že se nedotýká. To utíkala tak z lesa a zrovna k splavu. Já ji vidíval již tenkráte začasto u vody sedět aneb na stráni pod tím velikým dubem, a tudy jsem si toho hned nevšimnul. Ale když jsem dobře přihlídl, vidím, že cosi do vody zahazuje, a slyším ji tak divoce zasmát se, až mi vlasy se zježily. Pes můj začal hrozně výt. Já se tenkráte hrůzou třásl. Viktorka sedla si ale potom na pařez a zpívala; nerozuměl jsem ani slova, ale nota byla k ukolébavce, co zpívají matky dětem:
 
-Spi, děťátko, spi,  
+  
+
+_Spi, děťátko, spi,  
 zamhuř očka svý,  
 Pánbůh bude s tebou spáti,  
 andělíčky kolébati –  
-spi, děťátko, spi!
+spi, děťátko, spi!_
+
+  
 
 Ta nota tak žalostně zaznívala v noci, že jsem sotva úzkostí na místě vydržel. Dvě hodiny seděla a zpívala. A od té doby je každý večer až do noci u splavu a zpívá vždycky tu ukolébavku. Ráno jsem to starému mému povídal, ale tomu hned napadlo, co asi do vody hodila – a vskutku tak bylo. Když jsme ji zase viděli, byla postava změněna již. Matka se děsila i ostatní, ale co platno. Nevědomost hříchu nečiní! – Pomalu se navykla chodit i k našim dveřím, obyčejně když ji hlad dohnal; ale jako nyní dělá, tak i tenkráte; přišla, postavila se jako statue a nic. Ale moje žena – tenkráte ještě byla holčina – hned jí dala něco k jídlu; vzala to mlčky a utíkala do lesa. Když jdu lesem a potkaje ji chleba jí podám, vezme ho, ale kdybych s ní chtěl mluvit, uteče a nevezme ničeho. Květiny má zvláště ráda; jestli nenese kytku v ruce, má ji za lajblíkem, ale když vidí dítě nebo někam přijde, rozdá je. Ví-li, co dělá, kdož to může vědět? Rád bych sám věděl, co se v té pobloudilé hlavě její děje, ale kdož by to mohl vysvětlit, a ona – stěžkem kdy!
 
