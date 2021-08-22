@@ -1,0 +1,544 @@
+{
+  "author": "Božena Němcová",
+  "identifier": "nemcova-babicka-e5a123e",
+  "languagecode": "cs",
+  "modified": "2021-08-22T05:34:09.067Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Babička",
+  "revision": "e5a123e",
+  "generatedAt": {
+    "date": "Sun Aug 22 2021 05:47:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1629611247959
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "babicka_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "babicka_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "babicka_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "babicka_001.html",
+      "next": "babicka_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "babicka_008.html",
+      "words": 139,
+      "chars": 769,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "babicka_002.html",
+      "next": "babicka_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "babicka_009.html",
+      "words": 2679,
+      "chars": 15789,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 3,
+      "prev": "babicka_008.html",
+      "next": "babicka_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "babicka_010.html",
+      "words": 1760,
+      "chars": 10356,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 4,
+      "prev": "babicka_009.html",
+      "next": "babicka_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "babicka_011.html",
+      "words": 2593,
+      "chars": 14963,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 5,
+      "prev": "babicka_010.html",
+      "next": "babicka_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "babicka_012.html",
+      "words": 3906,
+      "chars": 22079,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 6,
+      "prev": "babicka_011.html",
+      "next": "babicka_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "babicka_013.html",
+      "words": 3879,
+      "chars": 22197,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 7,
+      "prev": "babicka_012.html",
+      "next": "babicka_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI",
+      "file": "babicka_014.html",
+      "words": 6716,
+      "chars": 37091,
+      "ideas": 130,
+      "role": "chapter",
+      "order": 8,
+      "prev": "babicka_013.html",
+      "next": "babicka_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII",
+      "file": "babicka_015.html",
+      "words": 6421,
+      "chars": 36351,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 9,
+      "prev": "babicka_014.html",
+      "next": "babicka_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII",
+      "file": "babicka_016.html",
+      "words": 5133,
+      "chars": 29314,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 10,
+      "prev": "babicka_015.html",
+      "next": "babicka_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX",
+      "file": "babicka_017.html",
+      "words": 3931,
+      "chars": 22330,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 11,
+      "prev": "babicka_016.html",
+      "next": "babicka_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "file": "babicka_018.html",
+      "words": 3215,
+      "chars": 18407,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 12,
+      "prev": "babicka_017.html",
+      "next": "babicka_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI",
+      "file": "babicka_019.html",
+      "words": 4083,
+      "chars": 23773,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 13,
+      "prev": "babicka_018.html",
+      "next": "babicka_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII",
+      "file": "babicka_020.html",
+      "words": 3757,
+      "chars": 22161,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 14,
+      "prev": "babicka_019.html",
+      "next": "babicka_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII",
+      "file": "babicka_021.html",
+      "words": 4169,
+      "chars": 24217,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 15,
+      "prev": "babicka_020.html",
+      "next": "babicka_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV",
+      "file": "babicka_022.html",
+      "words": 5080,
+      "chars": 28298,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 16,
+      "prev": "babicka_021.html",
+      "next": "babicka_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV",
+      "file": "babicka_023.html",
+      "words": 4215,
+      "chars": 23976,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 17,
+      "prev": "babicka_022.html",
+      "next": "babicka_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI",
+      "file": "babicka_024.html",
+      "words": 3906,
+      "chars": 22536,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 18,
+      "prev": "babicka_023.html",
+      "next": "babicka_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII",
+      "file": "babicka_025.html",
+      "words": 2931,
+      "chars": 17197,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 19,
+      "prev": "babicka_024.html",
+      "next": "babicka_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII",
+      "file": "babicka_026.html",
+      "words": 3867,
+      "chars": 23212,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 20,
+      "prev": "babicka_025.html",
+      "next": "babicka_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "* * *",
+      "file": "babicka_027.html",
+      "words": 1204,
+      "chars": 7257,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 21,
+      "prev": "babicka_026.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 295,
+      "chars": 1828,
+      "ideas": 44,
+      "role": "colophon",
+      "order": null,
+      "next": "babicka_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title-",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--1",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--2",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--3",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "title: ''",
+              "id": "title--4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "babicka_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "babicka_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 73879,
+      "chars": 424101,
+      "ideas": 650
+    },
+    "chapters": {
+      "words": 73584,
+      "chars": 422273,
+      "ideas": 606
+    }
+  }
+}
