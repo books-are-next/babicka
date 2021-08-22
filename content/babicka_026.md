@@ -14,28 +14,40 @@ Babička byla spokojena, všecko se podařilo dle jejího úmyslu. Ještě jedna
 
 Několik dní před svatou Kateřinou k večeru scházela se do hospody mladá chasa, děvčata i chlapci. Celé stavení zevně i v nitru jen se lesklo; okolo dveří věnce z chvoje, za každým obrázkem v sednici zelený struček, záclonky u oken jako sníh a podlaha jako křída. Dlouhý lipový stůl, pokrytý bílým ubrusem, a na něm plno rozmarýny, bílých a červených fáborů, okolo něho pak družičky, jak by nasázel růží a karafiátů. Sešly se k vití věnečků. Kristle, mladé nevěstě, která hore stolu v koutku mezi nimi seděla, nejpěknější ze všech. Ona byla zproštěna všech domácích povinností, byla dána pod poručnictví tlampače a starosvaty, kteréžto čestné úřady zastávali jeden vůdce poutníků Martinec a druhý babička. Nemohla to Kristle odepřít, ačkoliv se podobným veřejnostem vyhýbala. Panímáma zastávala místo staré, na nohy sešlé hospodské a Kudrnová i Cilka přisluhovaly jí. Babička seděla mezi družičkami, a byť i neměla byla co vít ani vázat, byla její pomoc i rada ustavičně potřebná. Nevěsta vázala fábor na krásný prut rozmarýny družbovi a tlampačovi, mladší družička měla na starosti uvití věnečku pro nevěstu, starší pro ženicha, ostatní družičky každá svému mládenci. Z ostatní rozmarýny měly se uvázat proutky s mašlemi pro hosty, ba i koňům, co nevěstu vézt měli, chystala se rozmarýna a fábory na okrášlení hlav a náčiní. Nevěstino oko zářilo láskou a radostí, kdykoli zapolétlo na statného ženicha, který popocházel okolo stolu s ostatními mládenci, z nichž každý větší svobody měl se svou milou si pohovořit nežli on s nevěstou, na niž jen toužebně chvílemi pohlédl. Nevěstu obsluhoval družba a ženich musel si hledět starší družice. Všem bylo dovoleno být veselými, dovádět, zpívat, dělat vtipy, čehož se ovšem především na tlampači požadovalo, jen nevěsta a ženich nesměli svoji radost příliš ukazovat. Kristla také málo mluvila, seděla s očima sklopenýma na stůl, poházený zelenou rozmarýnou. Když pak mladší a starší družice začaly vít svatební věnečky a všickni zpívat počali:
 
-Kdes, holubičko, lítala,  
+  
+
+_Kdes, holubičko, lítala,  
 ach lítala,  
 žes bílé peříčko zmáchala,  
-ach zmáchala –
+ach zmáchala –_
+
+  
 
 tu si přikryla obličej bílou zástěrkou a pustila se do pláče. Ženich se na ni skoro úzkostně podíval, řka tlampačovi: „Proč tak pláče?“ – „To víš, ženichu,“ odpověděl mu tento vesele, „radost i žalost v lůžku jednom spějí, proto i mnohdy jedno druhé budí. Jen nech, dnes pláč, zítra radost.“ – Po této úvodní následovala píseň za písní, směšné i vážné po sobě; zpívala se chvála mladosti, krásy a lásky, chvála svobodného stavu junáckého, konečně ale přece mládenci i panny začali prozpěvovat, jak krásný je stav manželský, když se dva milujou jako ty hrdličky, když svorně žijou, jako zrnka v jednom klásku. Do jejich chvalozpěvů se jim ale vždy vmísil posměšný hlas tlampače. Když začali o manželské svornosti, poručil si dokonce sólo sám pro sebe, že prý on jim zazpívá zbrusu novou. „Ode mne samého na světlo vydanou, potmě vytištěnou,“ dodal – „Tedy kokrhejte!“ křičeli chlapci, „uslyšíme, co umíte.“ Tlampač, postaviv se doprostřed sednice, spustil posměšným hlasem, který mu byl o svatbě tak přirozený jako o pouti vážný:
 
-Ó andělská radost,  
+  
+
+_Ó andělská radost,  
      není přes manželskou svornost!  
 Pravím-li: Uvař hrách,  
      uvaří kroupy;  
 pravím-li o mase,  
      uvaří z mouky.  
 Ó andělská radost,  
-     není přes manželskou svornost!
+     není přes manželskou svornost!_
+
+  
 
 „Nedáme za písničku i se zpěvákem ani zlámaného haléře!“ volaly děvčata a hned začaly samy zpívat, aby překazily chlapcům radost, kteří si přáli slyšet pokračování. Při ustavičném zpěvu a žertování uvázaly se kytice, upletly věnečky, děvčata vstaly od stolu, popadly se za ruce a točíce se v kole zpívaly:
 
-Už je to uděláno,  
+  
+
+_Už je to uděláno,  
 už je to hotovy,  
 koláče jsou napečeny,  
-věnce jsou uvity.
+věnce jsou uvity._
+
+  
 
 A v tom se již také do dveří panímáma přihnala, nesouc s ostatní ženskou čeládkou plné ruce jídel. Pan otec a družba přinášeli pití. Sedlo se zase ke stolu, který pokryt byl na místě rozmarýny vařením a pečivem. Mládenci seděli vedle družic, ženich uprostřed starší družičky a starosvatky, nevěsta uprostřed družby a mladší družičky, která jí také jídlo sama krájela a předkládala, jakož starší družice ženichovi. Tlampač ustavičně stůl obskakoval, nechal se od družic krmit, nechal se od nich i vylát, ony ale mu prominout musely každý žert, byť i hrubý trochu býval. Konečně když se všechny mísy odklidily ze stolu, přinesl tlampač tři mísy na stůl, co dar nevěstě od něho podaný. V první byla pšenice, kterou jí podával s přáním, aby „úrodná“ byla, v druhé bylo trochu popele s prosem smíchaného a třetí byla mísa „tajná“, celá zakrytá. Nevěsta ovšem neměla být zvědavá, měla přijmout mísu a nedívat se do ní, ale kterápak by to byla vydržela, i Kristle nedalo to pokoje; zpolehounka, když ji nikdo nepozoroval, odkryla růžek bílého šatu, jímž mísa přikryta byla, a – frrr – vrabec tam ukrytý vyletěl do stropu. „Vidíš, milá panno nevěsto,“ pravila babička, klepnouc jí na rameno, „tak to je s tou zvědavostí. Člověk by raději umřel, než aby nezkoumal, co před ním ukryto, a když pod roušku nahlídne, nechytl přece nic.“ Pozdě do noci byla mládež pohromadě, neboť se po jídle tancovalo ještě. Ženich s družbou vyprovázeli starosvatku domů, připomínajíce při rozchodu, že se časně zrána zase dostaví.
 
