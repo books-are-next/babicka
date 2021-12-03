@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Babička
 
@@ -9,9 +11,7 @@ Obrazy venkovského života
 Božena Němcová
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Babička](https://aleph.nkp.cz/F/7DNQU54S7AA4VQCGANTBNSVS5E16TU4DS4TC4IVYBVAXJELE9L-02283?func=full-set-set&set_number=131589&set_entry=000004&format=999) tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -32,9 +32,7 @@ Verze 1.0 z 1. 11. 2019.
 ![image004.jpg](./resources/image004_fmt.jpeg)
 
 
----
-title: ''
----
+***
 
 Daraus siehst du, daß die Armen nicht so ganz elend sind, wie wir uns denken; sie haben wirklich mehr Paradies, als wir uns einbilden und selbst besitzen!
 
@@ -45,9 +43,7 @@ Z toho vidíš, že chudí nejsou tak docela ubozí, jak si myslíme; jsou opra
 (Gutzkow, _Rytíři ducha_)
 
 
----
-title: ''
----
+***
 
 _Vysokorodé paní,  
 paní  
@@ -62,9 +58,7 @@ věnuje
 Božena Němcová_
 
 
----
-title: ''
----
+***
 
 _Vysoce urozená paní!_
 
@@ -73,9 +67,7 @@ _Je způsob, když milého z domu provázíme, že mu dáváme na cestu s sebo
 _I já, posílajíc do světa dítko – prostinké to dítko mé fantazie – žehnám je, vtiskujíc mu na čelo jméno, jež odedávna národu milé a vážené bylo – a nyní ctěné je co jméno příznivkyně lidu, podporovatelkyně všeho, co dobré a krásné, jméno Vaše, šlechetná paní! – Nevím pro ně lepšího požehnání._
 
 
----
-title: ''
----
+***
 
 **Božena Němcová**
 

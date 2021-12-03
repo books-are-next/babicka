@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-08-22T05:34:09.067Z'
   languageCode: cs
-chapters:
-  - babicka_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - babicka_002.html
   - babicka_008.html
   - babicka_009.html
@@ -32,6 +33,7 @@ chapters:
   - babicka_025.html
   - babicka_026.html
   - babicka_027.html
+  - colophon.html
 tocBase:
   - link: babicka_009.html
     title: I
@@ -77,5 +79,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
