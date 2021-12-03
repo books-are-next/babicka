@@ -35,6 +35,9 @@ readingOrder:
   - babicka_027.html
   - colophon.html
 tocBase:
+  - link: babicka_008.html
+    title: Dávno, dávno...
+    hiddenTitle: true
   - link: babicka_009.html
     title: I
   - link: babicka_010.html
