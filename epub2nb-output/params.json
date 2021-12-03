@@ -24,7 +24,7 @@
       "brAfter": "MLP-text-bez1radku--0-12\nMLP-verse--I---12-12",
       "blockquote": "",
       "figure": "",
-      "em": "MLP-dopis--I\nMLP-venovani\nMLP-verse--I---12-12\nchar-style-override-2\n char-style-override-3",
+      "em": "MLP-dopis--I\nMLP-venovani\nMLP-verse--I---12-12\n",
       "strong": "MLP-tiraz-autor-a-nazev",
       "remove": "",
       "ignore": ""
@@ -35,10 +35,10 @@
         "xhtml": "babicka_001.xhtml",
         "id": 0,
         "role": "cover",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -46,10 +46,10 @@
         "xhtml": "babicka_002.xhtml",
         "id": 1,
         "role": "break",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -57,10 +57,10 @@
         "xhtml": "babicka_003.xhtml",
         "id": 2,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -68,10 +68,10 @@
         "xhtml": "babicka_004.xhtml",
         "id": 3,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -79,10 +79,10 @@
         "xhtml": "babicka_005.xhtml",
         "id": 4,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -90,10 +90,10 @@
         "xhtml": "babicka_006.xhtml",
         "id": 5,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -101,10 +101,10 @@
         "xhtml": "babicka_007.xhtml",
         "id": 6,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -112,21 +112,22 @@
         "xhtml": "babicka_008.xhtml",
         "id": 7,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
-        "title": "",
+        "title": "Dávno, dávno...",
         "subtitle": "",
-        "children": []
+        "listType": "plain",
+        "children": [],
+        "hiddenTitle": true
       },
       {
         "filename": "babicka_009.md",
         "xhtml": "babicka_009.xhtml",
         "id": 8,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "I",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -134,10 +135,10 @@
         "xhtml": "babicka_010.xhtml",
         "id": 9,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "II",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -145,10 +146,10 @@
         "xhtml": "babicka_011.xhtml",
         "id": 10,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "III",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -156,10 +157,10 @@
         "xhtml": "babicka_012.xhtml",
         "id": 11,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "IV",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -167,10 +168,10 @@
         "xhtml": "babicka_013.xhtml",
         "id": 12,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "V",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -178,10 +179,10 @@
         "xhtml": "babicka_014.xhtml",
         "id": 13,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "VI",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -189,10 +190,10 @@
         "xhtml": "babicka_015.xhtml",
         "id": 14,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "VII",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -200,10 +201,10 @@
         "xhtml": "babicka_016.xhtml",
         "id": 15,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "VIII",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -211,10 +212,10 @@
         "xhtml": "babicka_017.xhtml",
         "id": 16,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "IX",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -222,10 +223,10 @@
         "xhtml": "babicka_018.xhtml",
         "id": 17,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "X",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -233,10 +234,10 @@
         "xhtml": "babicka_019.xhtml",
         "id": 18,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XI",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -244,10 +245,10 @@
         "xhtml": "babicka_020.xhtml",
         "id": 19,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XII",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -255,10 +256,10 @@
         "xhtml": "babicka_021.xhtml",
         "id": 20,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XIII",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -266,10 +267,10 @@
         "xhtml": "babicka_022.xhtml",
         "id": 21,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XIV",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -277,10 +278,10 @@
         "xhtml": "babicka_023.xhtml",
         "id": 22,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XV",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -288,10 +289,10 @@
         "xhtml": "babicka_024.xhtml",
         "id": 23,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XVI",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -299,10 +300,10 @@
         "xhtml": "babicka_025.xhtml",
         "id": 24,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XVII",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -310,10 +311,10 @@
         "xhtml": "babicka_026.xhtml",
         "id": 25,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "XVIII",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -321,10 +322,10 @@
         "xhtml": "babicka_027.xhtml",
         "id": 26,
         "role": "chapter",
-        "numberedChildren": false,
         "inToc": true,
         "title": "* * *",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       },
       {
@@ -332,10 +333,10 @@
         "xhtml": "babicka_028.xhtml",
         "id": 27,
         "role": "colophon",
-        "numberedChildren": false,
         "inToc": false,
         "title": "",
         "subtitle": "",
+        "listType": "plain",
         "children": []
       }
     ]
@@ -346,7 +347,7 @@
       "identifier": "urn:uuid:ed7088f6-81c9-40f0-9e0e-59c2552ef643",
       "author": "Božena Němcová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-03T07:26:50.342Z"
+      "modified": "2021-12-03T07:37:42.512Z"
     },
     "chapters": [
       {
@@ -593,6 +594,6 @@
       "user": "books-are-next",
       "repo": "babicka"
     },
-    "generatedAt": 1638516410925
+    "generatedAt": 1638517063157
   }
 }

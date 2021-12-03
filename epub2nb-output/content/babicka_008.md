@@ -1,5 +1,6 @@
 ---
 title: ''
+hiddenTitle: true
 ---
 
 Dávno, dávno již tomu, co jsem posledně se dívala do té milé mírné tváře, co jsem zulíbala to bledé líce, plné vrásků, nahlížela do modrého oka, v němž se jevilo tolik dobroty a lásky, dávno tomu, co mne posledně žehnaly staré její ruce! – Není více dobré stařenky! Dávno již odpočívá v chladné zemi!
