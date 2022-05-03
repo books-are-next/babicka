@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Komtesa podržela si babiččinu podobiznu a podobizny vnoučat jí odevzdala, z nichž měli rodiče velkou radost, ale babička největší; komtesa znala vložit do těch tváří duši, a bylo pravda, co babička každému, komu je ukazovala – a musely je vidět všecky známé –, říkala: „Jen ústa otevřít a mluvit.“ Mnohdy říkávala po letech, když už vnoučata z domu byly: „Není to ovšem mezi sprostým lidem způsob, aby se dávali malovat, ale nadarmo to není. Já sice dobře pamatuju, jak který vypadá, ale přijdou léta, člověku paměť bledne, podoba se ztrácí z mysli. Pak je to radost, když se mohu na ten obrázek podívat.“

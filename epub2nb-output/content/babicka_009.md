@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Babička měla syna a dvě dcery. Nejstarší žila mnoho let ve Vídni u přátel, od nichž se vdala. Druhá dcera šla pak na její místo. Syn řemeslník též byl již samostatným a přiženil se do městského domku. Babička bydlela v pohorské vesničce na slezských hranicích, žila spokojeně v malé chaloupce se starou Bětkou, která byla její vrstevnice a již u rodičů sloužila.

@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Kdyby člověk zvyklý na hlučný život velikých měst putoval údolím, kde stojí osamělé stavení, v němž Proškovic rodina žila, pomyslil by si: „Jak tu jen ti lidé mohou žít celý rok. Já bych tu nechtěl být, leda co růže kvetou. Bože, jakýchpak tu radostí!“ A přece tam bylo velice mnoho radostí v zimě v létě! Pod nízkou střechou přebývala spokojenost a láska, kterou jen okolnosti někdy zakalily, například odjezd pana Proška do hlavního města aneb nemoc někoho v domě.

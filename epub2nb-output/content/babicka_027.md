@@ -1,5 +1,7 @@
 ---
 title: '* * *'
+hiddenTitle: true
+contentType: prose
 ---
 
 Není účel tohoto spisku vyličovat život mládeže, která okolo babičky žila, aniž chci čtenáře nudit voděním ho od myslivny ke mlýnu a zase zpět malým údolíčkem, v němž panoval vždy stejný život. Mladí dorůstali a dorostli; někteří zůstali doma, vdaly se, oženili a starší ustoupili jim místa, tak jako na dubu starý list upadává, když mladý vyráží. Někteří opustili tiché údolíčko, hledajíce štěstí svoje jinde, jako semínka od větru zavátá, od vody daleko zanešená, by na jiných luzích a březích kořínky svoje založila.

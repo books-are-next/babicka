@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 V babiččině světnici jako v zahradě, kam se člověk obrátí, všude plno růží, rezedy, střemchy i jiného rozmanitého kvítí a mezi tím celé náruče dubových listů. Barunka a Mančinka vážou kytice a Cilka vije veliký věnec. Na lavici u kamen sedí Adélka s chlapci a odříkávají si přání.

@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 „Viktorka je sedlákova dcera ze Žernova. Rodiče její jsou už dávno pochováni, bratr a sestra žijou podnes. Před patnácti lety byla Viktorka děvče jako malina; daleko široko nebylo jí rovně. Svižná jako srna, pracovitá jako včelka, nikdo nemohl by si byl lepší ženy přát. Takové děvče, a když má ještě podíl na statku k očekávání, nezůstane pod pokličkou, to se samo sebou rozumí. Také o Viktorce šla pověst po celém okolí a námluvníci podávali si dveře. Tatíkovi a matce by se mnohý byl líbil, nejeden byl hospodář zámožný, a dcera by byla přišla, jak se říká, do plného, ale ona tomu nechtěla rozumět; jen ten měl u ní dobré oko, kdo nejpěkněji tancoval, a to jen při muzice.

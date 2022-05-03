@@ -78,34 +78,37 @@
         "filename": "babicka_005.md",
         "xhtml": "babicka_005.xhtml",
         "id": 4,
-        "role": "colophon",
-        "inToc": false,
-        "title": "",
+        "role": "chapter",
+        "inToc": true,
+        "title": "Citáty",
         "subtitle": "",
         "listType": "plain",
-        "children": []
+        "children": [],
+        "hiddenTitle": true
       },
       {
         "filename": "babicka_006.md",
         "xhtml": "babicka_006.xhtml",
         "id": 5,
-        "role": "colophon",
-        "inToc": false,
-        "title": "",
+        "role": "chapter",
+        "inToc": true,
+        "title": "Věnování",
         "subtitle": "",
         "listType": "plain",
-        "children": []
+        "children": [],
+        "hiddenTitle": true
       },
       {
         "filename": "babicka_007.md",
         "xhtml": "babicka_007.xhtml",
         "id": 6,
-        "role": "colophon",
-        "inToc": false,
-        "title": "",
+        "role": "chapter",
+        "inToc": true,
+        "title": "Vysoce urozená paní...",
         "subtitle": "",
         "listType": "plain",
-        "children": []
+        "children": [],
+        "hiddenTitle": true
       },
       {
         "filename": "babicka_008.md",
@@ -116,8 +119,8 @@
         "title": "Dávno, dávno...",
         "subtitle": "",
         "listType": "plain",
-        "children": [],
-        "hiddenTitle": true
+        "hiddenTitle": true,
+        "children": []
       },
       {
         "filename": "babicka_009.md",
@@ -323,10 +326,11 @@
         "id": 26,
         "role": "chapter",
         "inToc": true,
-        "title": "* * *",
+        "title": "Není účel tohoto spisku... ",
         "subtitle": "",
         "listType": "plain",
-        "children": []
+        "children": [],
+        "hiddenTitle": true
       },
       {
         "filename": "babicka_028.md",
@@ -347,7 +351,7 @@
       "identifier": "urn:uuid:ed7088f6-81c9-40f0-9e0e-59c2552ef643",
       "author": "Božena Němcová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-03T07:37:42.512Z"
+      "modified": "2019-11-01T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -594,6 +598,6 @@
       "user": "books-are-next",
       "repo": "babicka"
     },
-    "generatedAt": 1638517063157
+    "generatedAt": 1651576911515
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Jednou za čtrnáct dní neb tři neděle, když byl právě krásný den, říkala babička: „Dnes půjdeme na přástvu k myslivcům,“ děti těšily se od rána až do té chvíle, kde babička vzavši vřetánko na cestu se vydala. Za splavem vedla cesta pod příkrou strání k mostu, za mostem pak šlo se topolovým stromořadím ustavičně až do Rýznburku. Babička ale volila cestu pod stráněmi podél řeky až k pile. Nad pilou byl holý vrch, na němž rostla vysoká divizna, pro kterou Barunka ráda lezla. Za pilou se údolí víc a víc úžilo a řeka v těsnějším korytu bystřeji utíkala přes veliké kameny, které jí v cestě ležely. Vrchy porostlé byly jedlemi a smrčinami, které svým stínem skoro celou šíři údolí zatemňovaly. Tím údolím šly děti s babičkou, až došly pod zbořeniny hradu rýznburského, které z temného stromoví čněly, porostlé mechem.
