@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Paní kněžna odjela, s ní komtesa Hortensie, odjel i otec, a švitorné vlaštovice zpod střechy se také odstěhovaly. V Starém bělidle bylo kolik dní jako po vyhoření; matka plakávala, a děti když ji viděly plakat, plakaly také. „No, Terezko, neplač,“ říkala babička; „což je to všecko platno, toť jsi věděla, co tě čeká, když sis ho brala, tedy musíš trpělivě snášet. – A vy, děti, mlčte; modlete se za tatínka, aby zůstal zdráv, a dá Pánbůh jaro, vrátil se zase k nám.“ – „Až přiletí vlaštovičky, viďte?“ ptala se Adélka. – „To víš,“ dosvědčila babička a děvčátko utřelo si slze.

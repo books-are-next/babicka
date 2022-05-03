@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Babička
@@ -13,6 +14,9 @@ meta:
   edition: beletrie
 readingOrder:
   - babicka_002.html
+  - babicka_005.html
+  - babicka_006.html
+  - babicka_007.html
   - babicka_008.html
   - babicka_009.html
   - babicka_010.html
@@ -35,6 +39,15 @@ readingOrder:
   - babicka_027.html
   - colophon.html
 tocBase:
+  - link: babicka_005.html
+    title: Citáty
+    hiddenTitle: true
+  - link: babicka_006.html
+    title: Věnování
+    hiddenTitle: true
+  - link: babicka_007.html
+    title: Vysoce urozená paní...
+    hiddenTitle: true
   - link: babicka_008.html
     title: Dávno, dávno...
     hiddenTitle: true
@@ -75,7 +88,8 @@ tocBase:
   - link: babicka_026.html
     title: XVIII
   - link: babicka_027.html
-    title: '* * *'
+    title: 'Není účel tohoto spisku... '
+    hiddenTitle: true
 static:
   - style
   - scripts

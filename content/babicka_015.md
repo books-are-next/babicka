@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Druhý den před polednem vyhrnula se babička s dětmi ze dveří.

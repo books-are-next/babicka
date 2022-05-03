@@ -34,41 +34,6 @@ Verze 1.0 z 1. 11. 2019.
 
 ***
 
-Daraus siehst du, daß die Armen nicht so ganz elend sind, wie wir uns denken; sie haben wirklich mehr Paradies, als wir uns einbilden und selbst besitzen!
-
-(Gutzkow, Ritter vom Geiste)
-
-Z toho vidíš, že chudí nejsou tak docela ubozí, jak si myslíme; jsou opravdu blaženější, než si představujeme a než my sami jsme!
-
-(Gutzkow, Rytíři ducha)
-
-
-***
-
-_Vysokorodé paní,  
-paní  
-Eleonoře hraběnce z Kounic,  
-rozené  
-hraběnce Voračické z Paběnic,  
-paní Řádu hvězdokřížového,  
-členu  
-mnohých dobročinných ústavů atd.,  
-ve vší úctě  
-věnuje  
-Božena Němcová_
-
-
-***
-
-_Vysoce urozená paní!_
-
-_Je způsob, když milého z domu provázíme, že mu dáváme na cestu s sebou požehnání._
-
-_I já, posílajíc do světa dítko – prostinké to dítko mé fantazie – žehnám je, vtiskujíc mu na čelo jméno, jež odedávna národu milé a vážené bylo – a nyní ctěné je co jméno příznivkyně lidu, podporovatelkyně všeho, co dobré a krásné, jméno Vaše, šlechetná paní! – Nevím pro ně lepšího požehnání._
-
-
-***
-
 **Božena Němcová**
 
 **Babička**

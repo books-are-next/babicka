@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 V létě vstávala babička ve čtyry, v zimě v pět hodin. První její bylo požehnat a políbit křížek, visící na klokočovém růženci, jejž ona vždy při sobě nosila, v noci pak pod hlavou měla. Pak s Pánembohem vstala, a jsouc ustrojena, pokropila se svěcenou vodou, vzala vřetánko a předla, prozpěvujíc si přitom ranní písně. Ona sama, chudák stará, neměla už spaní, ale vědouc, jak je sladké, přála je jiným. Asi za hodinu, když vstala, bylo slyšet odměřené klapkání pantoflíčků, vrzly jedny, druhé dveře, babička se objevila na zápraží. V tom samém okamžení zakejhaly husy v chlívku, svině zachrochtaly, kráva bučela, kury křídlama zatřepetaly, kočky odkudsi přiběhnuvše otíraly se jí okolo nohou. Psi vyskočili z bud, protáhli se a jedním skokem byli u babičky; kdyby se byla nechránila, byli by ji zajisté porazili a ošatku se zrnem pro drůbež z rukou vyrazili. Babičku měly všecky ty zvířátka tak velmi rády, a ona je. Bůh chraň, aby viděla, že kdo týrá zbytečně, i kdyby to červíčka bývalo. „Co je člověku ke škodě nebo k užitku a zabít se musí, no spánembohem zabte to, jen ne mučit,“ říkávala. Děti ale nesměly se dívat, ani když se kuře zařezávalo, jen proto, že by jej litovaly, a ono pak umřít nemohlo.
