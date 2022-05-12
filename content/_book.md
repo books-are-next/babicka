@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - babicka_002.html
+  - promo.html
   - babicka_005.html
   - babicka_006.html
   - babicka_007.html
