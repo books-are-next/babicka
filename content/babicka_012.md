@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Mimo výroční svátky byla to každá neděle, na kterou se děti zvláště těšívaly. V neděli, to je babička nebudila, když měly vstávat; to bývala dávno již v městečku v kostele, na ranní, na kteroužto mši ona co stará hospodyně chodit uvyklá byla. Matka, a když byl otec doma, i on chodili na hrubou, a to šly, bylo-li pěkné počasí, děti s nimi, babičce naproti. Zdaleka jak babičku spatřily, na ni volaly, úprkem k ní se ženouce, jako by rok ji byly neviděly. V neděli se jim zdála babička vždy trochu jinačí, tvář jasnější, laskavější; také bývala pěkněji přistrojena, na noze nové černé pantoflíčky, na hlavě bílý čepec s holubičkou ze škrobených bílých kalounů. Seděla ji v týle jako opravdová. Děti si povídaly, že je babička v neděli „hrozně hezká!“ – Obyčejně, když k babičce přišly, chtěl každý něco nést. Jeden dostal tedy růženec, druhý šátek, Barunka ale co nejstarší vždy nesla mošinku. Z toho ale povstaly vždy nechvalné křiky, poněvadž chlapci všeteční byli a do mošinky nahlídnout chtěli, a Barunka zase dovolit to nechtěla. Přišlo pokaždé k žalobě, Barunka musela se obrátit na babičku, aby chlapcům vylála. Ale babička sáhla místo lání do mošinky, podělila děti buď jablky, buď něčím jiným, a byl hned svatý pokoj. Paní Prošková říkala sice každou neděli: „Prosím vás, babičko, nenoste jim ničeho více!“, babička každou neděli jí odpovídala: „Jakpak by to bylo, abych jim z kostela ničeho nepřinesla. Vždyť my nebývaly lepší!“ Zůstalo tedy při starém.
 
 S babičkou přicházívala zároveň panímáma, to jest paní mlynářka, a leckdy ještě některá kmotra ze Žernova, vesnice to, kteráž nejblíže nade mlýnem leží. Panímáma nosila dlouhé šaty s kabátkem a stříbrný čepec. Byla to ženka nízká, buclatá, s černýma veselýma očima; měla krátký rozpláclý nosejček, přívětivá ústa, malou bradičku a pod bradou lalůček. Na krku nosívala v neděli drobné perle, všední den granáty. Na ruce měla košík, v němž bylo trochu toho koření krámského, co panímáma pro domácnost potřebovala.
@@ -130,3 +132,5 @@ Panímáma s Mančinkou vyprovodily letního času babičku až k hospodě. By
 „Není strach, panímámo, že se dá Kristla těm zbalamutit,“ mínila babička. „Ta jim ukáže, kudy cesta ze dveří.“ – Zdálo se tak. Jeden z těch panáčků, na deset honů pižmem zavánějících, šeptal děvčeti cosi do ucha, ale ona mu se smíchem odsekla: „Jen složte, panáčku, složte, nekoupíme!“, skočila do síně a s veselou tváří položila ruku do mozolovité pravice vysokého junka, nechala se obejmout a vést k tanci, nedbajíc na volání: „Kristinko, pojďte nalívat!“
 
 „Ten je jí milejší než zámek se všemi pány i poklady,“ usmála se babička, dala panímámě dobrou noc a ubírala se s dětičkami domů.
+
+</section>

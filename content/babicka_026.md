@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Komtesa podržela si babiččinu podobiznu a podobizny vnoučat jí odevzdala, z nichž měli rodiče velkou radost, ale babička největší; komtesa znala vložit do těch tváří duši, a bylo pravda, co babička každému, komu je ukazovala – a musely je vidět všecky známé –, říkala: „Jen ústa otevřít a mluvit.“ Mnohdy říkávala po letech, když už vnoučata z domu byly: „Není to ovšem mezi sprostým lidem způsob, aby se dávali malovat, ale nadarmo to není. Já sice dobře pamatuju, jak který vypadá, ale přijdou léta, člověku paměť bledne, podoba se ztrácí z mysli. Pak je to radost, když se mohu na ten obrázek podívat.“
 
 Vozily se poslední pšeničné mandele z panských polí. – Poněvadž se vědělo, že paní kněžna dlouho zdržet se nemíní na panství, spěchajíc komtesou do Itálie, určil pan správce slavení obžínek ke konci pšeničních žní. Kristla byla nejkrásnější děvče v celém okolí, všecka způsobná; babička dobře hádala, zvolili ji, aby podala paní kněžně věnec. Za dvorcem bylo veliké prostranství dílem trávou porostlé, dílem byly na něm vyrovnány vysoké stohy slámy. Na trávník vztyčili chlapci vysokou tyč okrášlenou chvojem, pentlemi, vlajícími červenými šátky jako praporečky. Mezi chvojem bylo plno polního kvítí a obilních klasů. Okolo stohů udělali lavice, z chvoje besídky vystavěli, okolo okrášleného stromu udupal se mlat k tanci. „Babičko, babičko,“ pravila Kristla, „vy jste mne po celý čas těšila, já v slovu vašem jen žila; Mílovi poslala jsem plnou náruč nadějí, máme už obžínky, a posud nevíme, čeho se nadít. Povězte mi, prosím vás, nebyla to jen těšínská jablka, jež jste nám ukazovala, abychom snáze odvykli?“ – „Bylo by nemoudré chtít vás na ten způsob těšit, bláhové děvče. Co jsem řekla, v tom stojím. Zítra se pěkně přistroj, paní kněžna to má ráda. Beztoho, budu-li živa a zdráva, že se tam přijdu podívat, pak, když se mne budeš ptát, budu ti moci povědít pravdu,“ odpověděla babička děvčeti a usmála se. Ovšem, ona věděla, jak se s Mílou ustanovilo, a kdyby nebyla kněžně slíbila mlčet, nebyla by meškala zbavit Kristlu trapného myšlení.
@@ -15,18 +17,24 @@ Babička byla spokojena, všecko se podařilo dle jejího úmyslu. Ještě jedna
 
 Několik dní před svatou Kateřinou k večeru scházela se do hospody mladá chasa, děvčata i chlapci. Celé stavení zevně i v nitru jen se lesklo; okolo dveří věnce z chvoje, za každým obrázkem v sednici zelený struček, záclonky u oken jako sníh a podlaha jako křída. Dlouhý lipový stůl, pokrytý bílým ubrusem, a na něm plno rozmarýny, bílých a červených fáborů, okolo něho pak družičky, jak by nasázel růží a karafiátů. Sešly se k vití věnečků. Kristle, mladé nevěstě, která hore stolu v koutku mezi nimi seděla, nejpěknější ze všech. Ona byla zproštěna všech domácích povinností, byla dána pod poručnictví tlampače a starosvaty, kteréžto čestné úřady zastávali jeden vůdce poutníků Martinec a druhý babička. Nemohla to Kristle odepřít, ačkoliv se podobným veřejnostem vyhýbala. Panímáma zastávala místo staré, na nohy sešlé hospodské a Kudrnová i Cilka přisluhovaly jí. Babička seděla mezi družičkami, a byť i neměla byla co vít ani vázat, byla její pomoc i rada ustavičně potřebná. Nevěsta vázala fábor na krásný prut rozmarýny družbovi a tlampačovi, mladší družička měla na starosti uvití věnečku pro nevěstu, starší pro ženicha, ostatní družičky každá svému mládenci. Z ostatní rozmarýny měly se uvázat proutky s mašlemi pro hosty, ba i koňům, co nevěstu vézt měli, chystala se rozmarýna a fábory na okrášlení hlav a náčiní. Nevěstino oko zářilo láskou a radostí, kdykoli zapolétlo na statného ženicha, který popocházel okolo stolu s ostatními mládenci, z nichž každý větší svobody měl se svou milou si pohovořit nežli on s nevěstou, na niž jen toužebně chvílemi pohlédl. Nevěstu obsluhoval družba a ženich musel si hledět starší družice. Všem bylo dovoleno být veselými, dovádět, zpívat, dělat vtipy, čehož se ovšem především na tlampači požadovalo, jen nevěsta a ženich nesměli svoji radost příliš ukazovat. Kristla také málo mluvila, seděla s očima sklopenýma na stůl, poházený zelenou rozmarýnou. Když pak mladší a starší družice začaly vít svatební věnečky a všickni zpívat počali:
 
-  
+</section>
+
+<section>
 
 _Kdes, holubičko, lítala,  
 ach lítala,  
 žes bílé peříčko zmáchala,  
 ach zmáchala –_
 
-  
+</section>
+
+<section>
 
 tu si přikryla obličej bílou zástěrkou a pustila se do pláče. Ženich se na ni skoro úzkostně podíval, řka tlampačovi: „Proč tak pláče?“ – „To víš, ženichu,“ odpověděl mu tento vesele, „radost i žalost v lůžku jednom spějí, proto i mnohdy jedno druhé budí. Jen nech, dnes pláč, zítra radost.“ – Po této úvodní následovala píseň za písní, směšné i vážné po sobě; zpívala se chvála mladosti, krásy a lásky, chvála svobodného stavu junáckého, konečně ale přece mládenci i panny začali prozpěvovat, jak krásný je stav manželský, když se dva milujou jako ty hrdličky, když svorně žijou, jako zrnka v jednom klásku. Do jejich chvalozpěvů se jim ale vždy vmísil posměšný hlas tlampače. Když začali o manželské svornosti, poručil si dokonce sólo sám pro sebe, že prý on jim zazpívá zbrusu novou. „Ode mne samého na světlo vydanou, potmě vytištěnou,“ dodal – „Tedy kokrhejte!“ křičeli chlapci, „uslyšíme, co umíte.“ Tlampač, postaviv se doprostřed sednice, spustil posměšným hlasem, který mu byl o svatbě tak přirozený jako o pouti vážný:
 
-  
+</section>
+
+<section>
 
 _Ó andělská radost,  
      není přes manželskou svornost!  
@@ -37,18 +45,24 @@ pravím-li o mase,
 Ó andělská radost,  
      není přes manželskou svornost!_
 
-  
+</section>
+
+<section>
 
 „Nedáme za písničku i se zpěvákem ani zlámaného haléře!“ volaly děvčata a hned začaly samy zpívat, aby překazily chlapcům radost, kteří si přáli slyšet pokračování. Při ustavičném zpěvu a žertování uvázaly se kytice, upletly věnečky, děvčata vstaly od stolu, popadly se za ruce a točíce se v kole zpívaly:
 
-  
+</section>
+
+<section>
 
 _Už je to uděláno,  
 už je to hotovy,  
 koláče jsou napečeny,  
 věnce jsou uvity._
 
-  
+</section>
+
+<section>
 
 A v tom se již také do dveří panímáma přihnala, nesouc s ostatní ženskou čeládkou plné ruce jídel. Pan otec a družba přinášeli pití. Sedlo se zase ke stolu, který pokryt byl na místě rozmarýny vařením a pečivem. Mládenci seděli vedle družic, ženich uprostřed starší družičky a starosvatky, nevěsta uprostřed družby a mladší družičky, která jí také jídlo sama krájela a předkládala, jakož starší družice ženichovi. Tlampač ustavičně stůl obskakoval, nechal se od družic krmit, nechal se od nich i vylát, ony ale mu prominout musely každý žert, byť i hrubý trochu býval. Konečně když se všechny mísy odklidily ze stolu, přinesl tlampač tři mísy na stůl, co dar nevěstě od něho podaný. V první byla pšenice, kterou jí podával s přáním, aby „úrodná“ byla, v druhé bylo trochu popele s prosem smíchaného a třetí byla mísa „tajná“, celá zakrytá. Nevěsta ovšem neměla být zvědavá, měla přijmout mísu a nedívat se do ní, ale kterápak by to byla vydržela, i Kristle nedalo to pokoje; zpolehounka, když ji nikdo nepozoroval, odkryla růžek bílého šatu, jímž mísa přikryta byla, a – frrr – vrabec tam ukrytý vyletěl do stropu. „Vidíš, milá panno nevěsto,“ pravila babička, klepnouc jí na rameno, „tak to je s tou zvědavostí. Člověk by raději umřel, než aby nezkoumal, co před ním ukryto, a když pod roušku nahlídne, nechytl přece nic.“ Pozdě do noci byla mládež pohromadě, neboť se po jídle tancovalo ještě. Ženich s družbou vyprovázeli starosvatku domů, připomínajíce při rozchodu, že se časně zrána zase dostaví.
 
@@ -63,3 +77,5 @@ Nato šla se nevěsta opět převléknout do jiných šatů, a tak i družice,
 Ale darmo bylo. Už seděla nevěsta na stoličce, už jí rozplétala Tomšová žíhon, už ležela květinová koruna i zelený věneček na stole a babička chystala čepec s portama. Plakala nevěsta; ale bylo darmo. Ženy zpívaly, výskaly, jen babička zůstala vážná a chvilkami přelítl přes její mírnou tvář blažený úsměv, oko jí zvlhlo, vzpomněla na dceru Johanku, která snad také svatbu slavila. Nevěsta měla čepeček na hlavě, slušel jí výborně, paní mlynářka tvrdila, že v něm vypadá jako „míšeňské jablíčko“. „A nyní půjdem k ženichovi; která z vás půjde ho poškádlit?“ ptala se babička. – „Ta nejstarší,“ rozhodla panímáma. – „Počkejte, já mu jednu přivedu,“ rychle se ozvala Tomšová, vyběhla ven a přivedla mu starou přadlenu, která v kuchyni umývala. Přehodily jí bílou plachetku přes hlavu, starosvatka ji vzala pod paží a vedla k ženichovi, „aby ji koupil“. Ženich si ji obcházel, prohlížel tak dlouho, až se mu poštěstilo zdvihnout plachetku; viděl starou svraštělou tvář, všecku zapopelenou. Bylo trochu smíchu, ženich nechtěl se k takové nevěstě znát; starosvatka strkala se s ní ze dveří. Přivedla mu druhou. Ta zdála se ženichovi i tlampačovi onačejší, už ji chtěli koupit, tu ale tlampač rozhodně se ozval: „Ech což, kdo bude kupovat zajíce v pytli!“, zdvihl jí plachetku a ukázala se jim tlustá tvář paní mlynářky, jejíž černá očka se na tlampače potutelně smála. – „Kupte ji, kupte, dám vám ji lacino,“ šklíbil se pan otec a točil pikslu v prstech, ale zvolna, buď že byla těžká, buď že měl neohebné prsty. – „I mlčte, pantáto,“ smála se tlustá panímáma, „dnes prodal byste, zítra byste rád koupil. Kdo haní, rád má.“ – Do třetice všeho dobrého. Ta třetí byla štíhlá, vysoká postava nevěsty. Tlampač dával za ni starý dantes, ale ženich hned sypal stříbro a dostal ji. Ženy přihrnuly se do sednice, zatáhly kolo, ženicha vzaly mezi sebe a vesele začaly zpívat: „Už je to uděláno, už je to hotovy, nevěsta je očepená, koláče jsou snědeny,“ atd. Nevěsta patřila ženám. Peníze, které ženich za ni dal, ženy prohodovaly druhý den před polednem, když se k „stlaní postele“ sešly, přičemž ovšem zase bylo mnoho zpěvu a žertu. Tlampač povídal, že „pořádná svatba osm dní trvat má“, a ono to obyčejně při každé hlučné svatbě tak bylo. Vití věnečků před svatbou, svatba, stlaní postele, přátelský oběd u nevěsty, druhý zase u ženicha, propíjení věnečku: a tak se pomalu vypořádal celý týden, než přišli mladí manželé k oddechu, aby mohli říci: „Nyní jsme sami.“
 
 Za několik týdnů po Kristlině svatbě dostala paní Prošková list z Itálie od komorné, v němž jí psala, že komtesa Hortensie sňatek slavit bude s mladým malířem, svým někdejším učitelem, že je všecka blažena, že jako růže zase kvete a paní kněžna že je nad ní všecka potěšená. – Babička slyšíc tu radostnou novinu, přikývla hlavou řkouc: „Chvála Pánubohu, všecko se to dobře spořádalo!“
+
+</section>

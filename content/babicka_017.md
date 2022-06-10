@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 V babiččině světnici jako v zahradě, kam se člověk obrátí, všude plno růží, rezedy, střemchy i jiného rozmanitého kvítí a mezi tím celé náruče dubových listů. Barunka a Mančinka vážou kytice a Cilka vije veliký věnec. Na lavici u kamen sedí Adélka s chlapci a odříkávají si přání.
 
 Je předvečer svatojánský, druhý den otcův svátek, slavný to rodině den. Ten den sezval pan Prokeš své nejmilejší přátele na hostinu, to byl už obyčej. Proto byl takový rámus po celém stavení; Vorša drhla a smejčila, aby nebylo ani prášku nikde, Bětka pařila drůbež, paní pekla koláče a babička přihlížela tu k těstu, tu k peci, tu k drůbeži; jí bylo všude třeba. Barunka prosila, aby babička zavolala Jana ven, že jim nedá pokoje, a když byl venku, naříkala Bětka a Vorša, že se jim plete pod nohama. Vilém chtěl, aby ho babička vyslýchala, Adélka chytala ji za faldy, škemrajíc o koláč, a na dvoře krákaly slepice, dávajíce znamení, že chtějí na hřad. „Pro pána krále, vždyť pak nemohu všem všudy najednou posloužit!“ naříkala si ubohá babička. Tu volá Vorša: „Pán jde domů!“ – Pletačky se zamknou, paní uklízí, co ještě tajemstvím zůstat má, a babička přikazuje dětem: „Ne potom abyste tatínkovi všecko vybreptaly!“ – Otec přichází na dvorek, děti jdou mu vstříc, ale když jim dává otec dobrý večír a po matce se táže, zůstanou zaraženě stát, nevědí, co mají říci, aby nevyzradily tajemství. Adélka ale, tatínkův mazánek, jde přece k němu, a když ji béře na rámě, šeptá mu: „Maminka peče s babičkou koláče, zítra bude tvůj svátek.“ – „No počkej,“ přetrhnou jí chlapci slovo; „ty dostaneš, povědít to,“ – a běží žalovat mamince. Adélka zčervená, zaražena sedí na otcovu loktu, až konečně se pustí do pláče. „No neplač,“ chlácholí ji otec; „vždyť já to vím, že je můj svátek a že peče matka koláče.“ – Adélka si utře rukávkem slze, dívá se ale se strachem na matku, kterou chlapci vedou. Než ono se to všecko vyrovná a chlapci dovědí se, že Adélka ničeho nevyzradila. To tajemství ale všecky tři tak tlačí, že otec slyše nesmí slyšet a vidě nesmí vidět. Barunka musí při večeři ustavičně na ně mrkat a šťouchat je, aby se dokonce neprozradili, a Bětka se jim potom posmívá, že jsou „slepičí trepky“.
@@ -60,3 +62,5 @@ Kněžna zatím s myslivcem a Janem o všeličem mluvila, až se ptala také,
 K večeru přišel Kudrna, a jak slyšely děti flašinet, pustily se s Kristlou, Bětkou i Voršou do tance. Také šampaňské se pilo, paní kněžna je poslala hospodáři, aby pili na její zdraví. Ani na Viktorku se nezapomnělo, babička nesla, když se smrklo, ke splavu na omšený pařez dobrou výslužku.
 
 Druhý den ráno žalovala babičce, že měl pantáta mnoho řeči a že po cestě šněroval, ale babička s usmáním povídala: „I panímámo, vždyť je to jednou do roka, a není kapličky, aby nebylo jednou do roka kázáníčko!“
+
+</section>

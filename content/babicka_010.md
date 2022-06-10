@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 V létě vstávala babička ve čtyry, v zimě v pět hodin. První její bylo požehnat a políbit křížek, visící na klokočovém růženci, jejž ona vždy při sobě nosila, v noci pak pod hlavou měla. Pak s Pánembohem vstala, a jsouc ustrojena, pokropila se svěcenou vodou, vzala vřetánko a předla, prozpěvujíc si přitom ranní písně. Ona sama, chudák stará, neměla už spaní, ale vědouc, jak je sladké, přála je jiným. Asi za hodinu, když vstala, bylo slyšet odměřené klapkání pantoflíčků, vrzly jedny, druhé dveře, babička se objevila na zápraží. V tom samém okamžení zakejhaly husy v chlívku, svině zachrochtaly, kráva bučela, kury křídlama zatřepetaly, kočky odkudsi přiběhnuvše otíraly se jí okolo nohou. Psi vyskočili z bud, protáhli se a jedním skokem byli u babičky; kdyby se byla nechránila, byli by ji zajisté porazili a ošatku se zrnem pro drůbež z rukou vyrazili. Babičku měly všecky ty zvířátka tak velmi rády, a ona je. Bůh chraň, aby viděla, že kdo týrá zbytečně, i kdyby to červíčka bývalo. „Co je člověku ke škodě nebo k užitku a zabít se musí, no spánembohem zabte to, jen ne mučit,“ říkávala. Děti ale nesměly se dívat, ani když se kuře zařezávalo, jen proto, že by jej litovaly, a ono pak umřít nemohlo.
 
 Jednou se ale na oba psy, Sultána a Tyrla, převelice rozhněvala; bylo se ale proč hněvat! Vždyť se podkopali do chlívku a roztrhali za jednu noc deset káčátek, pěkných žlutých, které se měly k světu až milo. Babičce ruce sklesly, když otevřela ráno chlívek a husa s třemi pozůstalými káčaty ven se vyhnala, zděšeně kejhajíc, jako by naříkala pro svoje zavražděná mláďata, která vyseděla na místě jich nestálé, toulavé roditelky. Babička měla v domnění kunu škůdnici, ale přesvědčila se podle stopy, že to udělali psi. Psi, ti věrní hlídači! Babička ani svým očím nevěřila. A ještě přišli a lichotili se jakoby nic, a to babičku nejvíc rozhněvalo! „Pryč ode mne, vy zloto! Co vám udělaly ty káčátka? Máte snad hlad? Nemáte; z pouhé svévolnosti jste to udělali! Pryč ode mne, ani vás vidět nechci!“ Psi schlípli ohony, loudali se do bud, babička ale zapomenouc, že je časně, šla do pokoje povědít dceři svoji žalost.
@@ -60,3 +62,5 @@ Babička chodila spát v deset, to byla její hodina, tu ona cítila na očích
 „Jen pánbůh je všemohoucí, co vy můžete vědět. Opatrnosti nikdy nezbývá, to si pamatujte.“
 
 Když bylo vše v pořádku, klekla před krucifix, pomodlila se, pokropila sebe i Barunku ještě jednou svěcenou vodou, klokočový růženec položila si pod hlavu a s pánembohem usnula.
+
+</section>

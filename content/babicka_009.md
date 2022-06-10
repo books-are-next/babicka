@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Babička měla syna a dvě dcery. Nejstarší žila mnoho let ve Vídni u přátel, od nichž se vdala. Druhá dcera šla pak na její místo. Syn řemeslník též byl již samostatným a přiženil se do městského domku. Babička bydlela v pohorské vesničce na slezských hranicích, žila spokojeně v malé chaloupce se starou Bětkou, která byla její vrstevnice a již u rodičů sloužila.
 
 Nežila osamotnělá ve své chaloupce; všickni obyvatelé vesničtí byli bratřími jí a sestrami, ona jim byla matkou, rádkyní, bez ní se neskončil ani křest, ani svatba, ani pohřeb.
@@ -52,3 +54,5 @@ Mimo tyto věci měla babička v přítruhlíčku dva růžence dotýkané, fá
 Dole v truhle leželo babiččino prádlo a šatstvo. A všecky ty mezulánky, fěrtochy, kabátky letní, šněrovačky i šátky ležely v nejlepším pořádku a navrchu byly dva škrobené bílé čepce, vzadu s holubičkou. V tom se děti babičce přebírat nesměly, když ale dobrou chvíli měla, zdvihla kousek po kousku říkajíc: „Vidíte, děti, tuhle kanafasku mám už padesát let, tenhle kabátek nosívala vaše prababička, tento fěrtoch je tak starý jako vaše matka, a všecko jako nové. A vy máte šaty hned zmýcené. Ale to je to, že neznáte, jak drahé jsou peníze! Vidíte, tenhle hedvábný kabátek stál sto rýnských, ale tenkráte platily bankocetle,“ a tak pokračovala babička dále a děti poslouchaly tiše, jako by tomu rozuměly.
 
 Paní Prošková chtěla sice, aby babička se převlíkala do jiného šatu, jak v dobrém úmyslu se domnívala, pohodlnějšího, ale babička nezměnila na sobě ani té nejmenší lemovky a vždy říkala: „Pánbůh by mne, starou ženu, trestat musel, kdybych se chtěla chytat světa. Pro mne takové novoty nejsou, starý můj rozum by se do toho nehodil.“ Zůstalo tedy při starém. Brzy se v domě řídilo všecko dle babiččina slova, každý ji jmenoval „babičko“, a co babička řekla a udělala, bylo dobře.
+
+</section>

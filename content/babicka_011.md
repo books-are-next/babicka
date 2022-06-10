@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Kdyby člověk zvyklý na hlučný život velikých měst putoval údolím, kde stojí osamělé stavení, v němž Proškovic rodina žila, pomyslil by si: „Jak tu jen ti lidé mohou žít celý rok. Já bych tu nechtěl být, leda co růže kvetou. Bože, jakýchpak tu radostí!“ A přece tam bylo velice mnoho radostí v zimě v létě! Pod nízkou střechou přebývala spokojenost a láska, kterou jen okolnosti někdy zakalily, například odjezd pana Proška do hlavního města aneb nemoc někoho v domě.
 
 Bylo to stavení nevelké, ale hezoučké. Okolo oken, obrácených k východu, táhla se vinná réva, před okny pak byla malá zahrádka plná růží, fial, rezedky i salátu, petrželky a jiné drobné zeleniny. Na severovýchodní straně byl ovocný sad a za ním táhla se louka až ke mlýnu. Velká stará hruška stála při samém stavení, kladouc se všemi svými ratolestmi na šindelem krytou střechu, pod níž hnízdilo mnoho vlašťovic. Uprostřed dvorku stála lípa, pod ní lavička. Na jihozápadní straně bylo menší stavení hospodářské a za tím táhlo se chrastí a křoví až k splavu nahoru. Okolo stavení vedly dvě cesty. Jedna vozová, kterou mohl nahoru podél řeky k rýznburskému dvorci a na Červenou Hůru aneb dolů ke mlýnu a vždy podél řeky až do nejbližšího městečka, malou hodinku cesty vzdáleného. Řeka ta je divoká Úpa, která utíká z hor Krkonošských, vrhajíc se přes sráze a skály, proplítajíc se úzkými údolinami až do roviny, kudy bez překážky do Labe pospíchá, ustavičně mezi zelenými břehy, majíc z jedné strany vysoké stráně porostlé rozličným stromovím.
@@ -80,3 +82,5 @@ Celý den, co býval myslivec u nich, nehnuli se chlapci od něho, chodili s n
 [^1]: Zvol je vesnice na vršku nad Úpou a je tam vidět kostel.
 
 [^2]: Kramolna je malé místo, sestávajíc z několika stavení, a tudy žádného rychtáře tam není.
+
+</section>

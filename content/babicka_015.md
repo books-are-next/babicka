@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Druhý den před polednem vyhrnula se babička s dětmi ze dveří.
 
 „Ať se mi slušně chováte,“ přikazovala matka, přes práh je vyprovázejíc; „ať mi v zámku na nic nesaháte a paní kněžně pěkně ruku políbíte.“
@@ -86,3 +88,5 @@ Mezi řečí sedla kněžna ke stolu, Hortensie rozesadila děti okolo sebe a b
 Komorník přicházeje sklízet ze stolu, ohrnul nos a myslil si: „Divný to rozmar takové dámy, bavit se se sprostou babou.“ Kněžna ale stála u okna a dívala se za odcházejícími, dokud vidět bylo bílé šaty děvčat a bílou holubičku babiččinu zelenem prokmitat. Odcházejíc pak do kabinetu šeptala si: „Šťastná to žena!“
 
 [^3]: Ančka je polévka z mléka, zakloktaná moukou a vejcem.
+
+</section>
