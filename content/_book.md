@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2464-1
+  contentType: prose
 readingOrder:
   - promo.html
   - babicka_005.html
