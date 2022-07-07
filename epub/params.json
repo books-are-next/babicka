@@ -513,7 +513,7 @@
         "xhtml": "babicka_026.xhtml"
       },
       {
-        "titleSuggest": "\* \* \*",
+        "titleSuggest": "\\* \\* \\*",
         "subtitleSuggest": "",
         "filename": "babicka_027.md",
         "xhtml": "babicka_027.xhtml"
