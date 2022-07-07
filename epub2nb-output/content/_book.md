@@ -12,8 +12,10 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2464-1
+  contentType: prose
 readingOrder:
-  - babicka_002.html
+  - promo.html
   - babicka_005.html
   - babicka_006.html
   - babicka_007.html
@@ -37,59 +39,62 @@ readingOrder:
   - babicka_025.html
   - babicka_026.html
   - babicka_027.html
-  - colophon.html
+  - about.html
 tocBase:
-  - link: babicka_005.html
-    title: Citáty
-    hiddenTitle: true
-  - link: babicka_006.html
-    title: Věnování
-    hiddenTitle: true
-  - link: babicka_007.html
-    title: Vysoce urozená paní...
-    hiddenTitle: true
-  - link: babicka_008.html
-    title: Dávno, dávno...
-    hiddenTitle: true
-  - link: babicka_009.html
-    title: I
-  - link: babicka_010.html
-    title: II
-  - link: babicka_011.html
-    title: III
-  - link: babicka_012.html
-    title: IV
-  - link: babicka_013.html
-    title: V
-  - link: babicka_014.html
-    title: VI
-  - link: babicka_015.html
-    title: VII
-  - link: babicka_016.html
-    title: VIII
-  - link: babicka_017.html
-    title: IX
-  - link: babicka_018.html
-    title: X
-  - link: babicka_019.html
-    title: XI
-  - link: babicka_020.html
-    title: XII
-  - link: babicka_021.html
-    title: XIII
-  - link: babicka_022.html
-    title: XIV
-  - link: babicka_023.html
-    title: XV
-  - link: babicka_024.html
-    title: XVI
-  - link: babicka_025.html
-    title: XVII
-  - link: babicka_026.html
-    title: XVIII
-  - link: babicka_027.html
-    title: 'Není účel tohoto spisku... '
-    hiddenTitle: true
+  - id: section-1
+    children:
+      - link: babicka_005.html
+        title: Citáty
+        hiddenTitle: true
+      - link: babicka_006.html
+        title: Věnování
+        hiddenTitle: true
+      - link: babicka_007.html
+        title: Vysoce urozená paní...
+        hiddenTitle: true
+      - link: babicka_008.html
+        title: Dávno, dávno...
+        hiddenTitle: true
+      - link: babicka_009.html
+        title: I
+      - link: babicka_010.html
+        title: II
+      - link: babicka_011.html
+        title: III
+      - link: babicka_012.html
+        title: IV
+      - link: babicka_013.html
+        title: V
+      - link: babicka_014.html
+        title: VI
+      - link: babicka_015.html
+        title: VII
+      - link: babicka_016.html
+        title: VIII
+      - link: babicka_017.html
+        title: IX
+      - link: babicka_018.html
+        title: X
+      - link: babicka_019.html
+        title: XI
+      - link: babicka_020.html
+        title: XII
+      - link: babicka_021.html
+        title: XIII
+      - link: babicka_022.html
+        title: XIV
+      - link: babicka_023.html
+        title: XV
+      - link: babicka_024.html
+        title: XVI
+      - link: babicka_025.html
+        title: XVII
+      - link: babicka_026.html
+        title: XVIII
+      - link: babicka_027.html
+        title: 'Není účel tohoto spisku... '
+        hiddenTitle: true
+    isSection: true
 static:
   - style
   - scripts
@@ -97,5 +102,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

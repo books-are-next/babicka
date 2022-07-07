@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Jednou za čtrnáct dní neb tři neděle, když byl právě krásný den, říkala babička: „Dnes půjdeme na přástvu k myslivcům,“ děti těšily se od rána až do té chvíle, kde babička vzavši vřetánko na cestu se vydala. Za splavem vedla cesta pod příkrou strání k mostu, za mostem pak šlo se topolovým stromořadím ustavičně až do Rýznburku. Babička ale volila cestu pod stráněmi podél řeky až k pile. Nad pilou byl holý vrch, na němž rostla vysoká divizna, pro kterou Barunka ráda lezla. Za pilou se údolí víc a víc úžilo a řeka v těsnějším korytu bystřeji utíkala přes veliké kameny, které jí v cestě ležely. Vrchy porostlé byly jedlemi a smrčinami, které svým stínem skoro celou šíři údolí zatemňovaly. Tím údolím šly děti s babičkou, až došly pod zbořeniny hradu rýznburského, které z temného stromoví čněly, porostlé mechem.
 
 Opodál hradu, nad starým sklepením, kterým se prý mohlo chodit tři míle cesty pod zemí, do něhož ale nikdo vstoupit nemohl pro vlhkost a zkažený vzduch, vystavěn byl altán s třemi vysokými špičatými okny. Vrchnost, když na lovu byla, držívala tam druhé snídaní. K tomu altánku děti zaměřily, lezouce po příkrém vrchu nahoru jako kamzíci. Babička, chudák stará, sotva se vyškrábala; vpravo i vlevo stromků se chytala. „No, vy jste mi daly, sotva že dechu popadám,“ povídala jsouc konečně nahoře.
@@ -194,3 +196,5 @@ Když přišla paní myslivcová zase do světnice, prosila babičku, aby povíd
 „Inu, jaká pomoc. Chce-li mít člověk od vás pěkné oko, musí vám pomyšlení udělat. Začni tedy povídat,“ řekla hospodyně, sedajíc s vřetánkem vedle babičky.
 
 „Jsem hotov, tedy poslouchejte!“ To řka pustil myslivec první obláček dýmu vzhůru ke stropu, položil nohy křížem, podepřel se pohodlně o židli a začal vypravovat o Viktorce. –
+
+</section>

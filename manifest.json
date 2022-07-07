@@ -1,21 +1,50 @@
 {
-  "author": "Božena Němcová",
-  "edition": "beletrie",
-  "identifier": "nemcova-babicka-2cfc9e9",
-  "languagecode": "cs",
-  "modified": "2021-08-22T05:34:09.067Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Babička",
-  "revision": "2cfc9e9",
+  "author": "Božena Němcová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "nemcova-babicka-4e1ced7",
+  "revision": "4e1ced7",
+  "readingOrder": [
+    "promo.html",
+    "babicka_005.html",
+    "babicka_006.html",
+    "babicka_007.html",
+    "babicka_008.html",
+    "babicka_009.html",
+    "babicka_010.html",
+    "babicka_011.html",
+    "babicka_012.html",
+    "babicka_013.html",
+    "babicka_014.html",
+    "babicka_015.html",
+    "babicka_016.html",
+    "babicka_017.html",
+    "babicka_018.html",
+    "babicka_019.html",
+    "babicka_020.html",
+    "babicka_021.html",
+    "babicka_022.html",
+    "babicka_023.html",
+    "babicka_024.html",
+    "babicka_025.html",
+    "babicka_026.html",
+    "babicka_027.html",
+    "about.html"
+  ],
   "generatedAt": {
-    "date": "Tue May 03 2022 11:22:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651576968491
+    "date": "Thu Jul 07 2022 09:27:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657186060015
   },
   "documents": [
     {
-      "title": "Babička",
-      "file": "babicka_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +52,7 @@
       "order": 0,
       "prev": null,
       "next": "babicka_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Babička",
@@ -41,7 +62,7 @@
       "ideas": 4,
       "role": "chapter",
       "order": 1,
-      "prev": "babicka_002.html",
+      "prev": "promo.html",
       "next": "babicka_006.html",
       "toc": [
         {
@@ -56,9 +77,9 @@
     {
       "title": "Babička",
       "file": "babicka_006.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 26,
+      "chars": 177,
+      "ideas": 11,
       "role": "chapter",
       "order": 2,
       "prev": "babicka_005.html",
@@ -114,7 +135,7 @@
       ]
     },
     {
-      "title": "I • Babička",
+      "title": "I",
       "file": "babicka_009.html",
       "words": 2679,
       "chars": 15789,
@@ -134,7 +155,7 @@
       ]
     },
     {
-      "title": "II • Babička",
+      "title": "II",
       "file": "babicka_010.html",
       "words": 1760,
       "chars": 10356,
@@ -154,7 +175,7 @@
       ]
     },
     {
-      "title": "III • Babička",
+      "title": "III",
       "file": "babicka_011.html",
       "words": 2593,
       "chars": 14965,
@@ -174,7 +195,7 @@
       ]
     },
     {
-      "title": "IV • Babička",
+      "title": "IV",
       "file": "babicka_012.html",
       "words": 3906,
       "chars": 22079,
@@ -194,7 +215,7 @@
       ]
     },
     {
-      "title": "V • Babička",
+      "title": "V",
       "file": "babicka_013.html",
       "words": 3879,
       "chars": 22197,
@@ -214,7 +235,7 @@
       ]
     },
     {
-      "title": "VI • Babička",
+      "title": "VI",
       "file": "babicka_014.html",
       "words": 6716,
       "chars": 37091,
@@ -234,7 +255,7 @@
       ]
     },
     {
-      "title": "VII • Babička",
+      "title": "VII",
       "file": "babicka_015.html",
       "words": 6421,
       "chars": 36352,
@@ -254,7 +275,7 @@
       ]
     },
     {
-      "title": "VIII • Babička",
+      "title": "VIII",
       "file": "babicka_016.html",
       "words": 5133,
       "chars": 29314,
@@ -274,7 +295,7 @@
       ]
     },
     {
-      "title": "IX • Babička",
+      "title": "IX",
       "file": "babicka_017.html",
       "words": 3931,
       "chars": 22330,
@@ -294,7 +315,7 @@
       ]
     },
     {
-      "title": "X • Babička",
+      "title": "X",
       "file": "babicka_018.html",
       "words": 3215,
       "chars": 18408,
@@ -314,7 +335,7 @@
       ]
     },
     {
-      "title": "XI • Babička",
+      "title": "XI",
       "file": "babicka_019.html",
       "words": 4083,
       "chars": 23774,
@@ -334,7 +355,7 @@
       ]
     },
     {
-      "title": "XII • Babička",
+      "title": "XII",
       "file": "babicka_020.html",
       "words": 3757,
       "chars": 22161,
@@ -354,7 +375,7 @@
       ]
     },
     {
-      "title": "XIII • Babička",
+      "title": "XIII",
       "file": "babicka_021.html",
       "words": 4169,
       "chars": 24217,
@@ -374,7 +395,7 @@
       ]
     },
     {
-      "title": "XIV • Babička",
+      "title": "XIV",
       "file": "babicka_022.html",
       "words": 5080,
       "chars": 28299,
@@ -394,7 +415,7 @@
       ]
     },
     {
-      "title": "XV • Babička",
+      "title": "XV",
       "file": "babicka_023.html",
       "words": 4215,
       "chars": 23976,
@@ -414,7 +435,7 @@
       ]
     },
     {
-      "title": "XVI • Babička",
+      "title": "XVI",
       "file": "babicka_024.html",
       "words": 3906,
       "chars": 22536,
@@ -434,7 +455,7 @@
       ]
     },
     {
-      "title": "XVII • Babička",
+      "title": "XVII",
       "file": "babicka_025.html",
       "words": 2931,
       "chars": 17197,
@@ -454,7 +475,7 @@
       ]
     },
     {
-      "title": "XVIII • Babička",
+      "title": "XVIII",
       "file": "babicka_026.html",
       "words": 3863,
       "chars": 23192,
@@ -474,32 +495,32 @@
       ]
     },
     {
-      "title": "* * * • Babička",
+      "title": "* * *",
       "file": "babicka_027.html",
-      "words": 1204,
-      "chars": 7257,
+      "words": 1206,
+      "chars": 7262,
       "ideas": 8,
       "role": "chapter",
       "order": 23,
       "prev": "babicka_026.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "* * *",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Tiráž • Babička",
-      "file": "colophon.html",
-      "words": 133,
-      "chars": 883,
-      "ideas": 22,
-      "role": "colophon",
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 124,
+      "chars": 837,
+      "ideas": 15,
+      "role": "about",
       "order": null,
       "prev": "babicka_027.html",
       "next": null,
@@ -516,14 +537,14 @@
   ],
   "totals": {
     "all": {
-      "words": 73845,
-      "chars": 423902,
-      "ideas": 639
+      "words": 73864,
+      "chars": 424038,
+      "ideas": 643
     },
     "chapters": {
-      "words": 73707,
-      "chars": 422987,
-      "ideas": 613
+      "words": 73735,
+      "chars": 423169,
+      "ideas": 624
     }
   }
 }
