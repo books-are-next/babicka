@@ -39,7 +39,7 @@ readingOrder:
   - babicka_025.html
   - babicka_026.html
   - babicka_027.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
