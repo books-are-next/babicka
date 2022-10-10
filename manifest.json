@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemcova-babicka-31531bd",
-  "revision": "31531bd",
+  "identifier": "nemcova-babicka-b3c9f34",
+  "revision": "b3c9f34",
   "readingOrder": [
     "promo.html",
     "babicka_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:57:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151059550
+    "date": "Mon Oct 10 2022 15:49:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416981057
   },
   "documents": [
     {
@@ -518,7 +518,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 124,
-      "chars": 838,
+      "chars": 839,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -538,7 +538,7 @@
   "totals": {
     "all": {
       "words": 73864,
-      "chars": 424039,
+      "chars": 424040,
       "ideas": 643
     },
     "chapters": {
