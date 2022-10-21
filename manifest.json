@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "nemcova-babicka-2f0a789",
-  "revision": "2f0a789",
+  "identifier": "nemcova-babicka-e94ffd8",
+  "revision": "e94ffd8",
   "readingOrder": [
     "promo.html",
     "babicka_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 21 2022 10:43:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1666349008085
+    "date": "Fri Oct 21 2022 11:15:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666350928673
   },
   "documents": [
     {
